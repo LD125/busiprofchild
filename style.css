@@ -1,0 +1,48 @@
+/*
+
+Theme Name : Busiprof Chils
+Author: Lounis
+Version: 1.0
+Text Domain: busiprofchild
+Domain Path: /Languages
+Description: Mon thème enfant de Busiprof
+Template: busiprof
+
+
+*/
+
+.monfooter{
+    background: #000000;
+    color: #fff;
+    padding: 1%;
+}
+.monfooter p{
+    color: #fff;
+}
+.fa-chevron-left, .fa-chevron-right {
+    position: relative;
+    top: 50%;
+}
+.fa-chevron-left {
+    margin-right: 50px;
+}
+.fa-chevron-right {
+    margin-left: 50px;
+}
+.container {
+    padding: 1% !important;
+}
+.img_parallaxe{
+    background-attachment: fixed !important;
+    background-position: top !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;  
+}
+footer {
+    background: #CCC;
+    margin-top: 2%;
+
+}
+.menufooter {
+    padding: 1%;
+}
